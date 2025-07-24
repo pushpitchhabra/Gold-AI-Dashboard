@@ -1,0 +1,6 @@
+Strategy,Total Return (%),Max Drawdown (%),Sharpe Ratio,Total Trades,Win Rate (%),Profit Factor,Final Value ($),Buy & Hold (%)
+Buy and Hold,248.89,-44.32,0.592,1,100.0,0.0,34889.44,262.36
+Trend Following MA,-88.21,-91.16,-1.062,1795,99.44,306.874,1178.76,262.36
+Filtered Golden Cross,-91.87,-91.95,-1.346,407,96.56,37.079,812.94,262.36
+MACD Momentum,-99.91,-99.92,-3.769,6765,99.85,1609.108,8.6,262.36
+Mean Reversion,-100.0,-100.0,-7.736,15248,99.59,300.398,0.0,262.36
