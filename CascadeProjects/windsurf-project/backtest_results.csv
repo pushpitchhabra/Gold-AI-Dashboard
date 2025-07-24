@@ -1,7 +1,0 @@
-Strategy,Total Return (%),Max Drawdown (%),Sharpe Ratio,Total Trades,Win Rate (%),Final Value ($),Buy & Hold (%)
-Golden Cross (50/200),-79.62,-84.82,-0.836,1202,35.94,2038.2,262.36
-Bollinger Bands,-99.98,-99.98,-4.477,4360,64.95,2.33,262.36
-RSI Strategy,-99.99,-99.99,-4.714,4610,63.82,1.17,262.36
-MA Crossover (10/30),-100.0,-100.0,-7.324,7599,36.93,0.01,262.36
-MACD Strategy,-100.0,-100.0,-13.895,14791,35.13,0.0,262.36
-EMA Crossover (12/26),-100.0,-100.0,-6.239,6605,30.5,0.07,262.36
